@@ -8,13 +8,13 @@
 #define all(x) x.begin(), x.end()
 #define pb push_back
 using namespace std;
-const int M=1e9+7;
+const ll M=1e9+7;
 const int mxn=1e6;
 const ll inf=1e18;
 ll pw1[mxn+3];
 ll pw2[mxn+3];
-const int m1=1e9+1011;
-const int m2=1e9+1011;
+const ll m1=1e9+1011;
+const ll m2=1e9+1011;
 ll b1=1e9+21, b2=1e9+181;
 ll B1[15]={68749,23627,91621,613,3389,971,797,4339,5333,269,5821,1031,1583,1949,593};
 ll B2[15]={359,3719,6397,6211,5701,11743,677,1667,1759,947,733,5023,4547,4139,8831};
